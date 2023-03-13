@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
-<h3 align="center">A passionate Frontend Software Developer 🚀 having an experience of building Web Applications with JavaScript, React JS, Redux, React Query, Next Js, Graph QL and some other cool libraries and frameworks.</h3>
+<h3 align="center">A passionate Software Developer 🚀 having an experience of building Web Applications with JavaScript, React JS, Redux, React Query, Next Js, Graph QL and some other cool libraries and frameworks.</h3>
 
 - 🌱 I’m currently learning **Node JS**
 
