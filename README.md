@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
-<h3 align="center">A passionate Software Developer 🚀 having an experience of building Web Applications with JavaScript, React JS, Redux, React Query, Next Js, Graph QL and some other cool libraries and frameworks.</h3>
+<h3 align="center">A passionate Software Developer 🚀 having experience in building Web Applications with JavaScript, React JS, Redux, React Query, Next Js, Graph QL, and some other cool libraries and frameworks.</h3>
 
 - 🌱 I’m currently persuing **Masters in Computer Science** and looking for **New challenges**. 
 
 - 💬 Ask me about **JavaScript, React Js, Next Js**
 
 - 📫 How to reach me **zulfiqar.cs20@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/zulfiqar313/my-resume/blob/main/Resume%20-%20Ali.pdf](https://github.com/zulfiqar313/my-resume/blob/main/Resume%20-%20Ali.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
