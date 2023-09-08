@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
 <h3 align="center">A passionate Software Developer 🚀 having experience in building Software Applications with JavaScript, React JS, React Native, Redux, React Query, Next Js, Graph QL, and some other cool libraries and frameworks.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulfiqar313" alt="zulfiqar313" /></a> </p>
 
 - 🌱 I’m currently persuing **Masters in Computer Science** and looking for **New challenges**. 
 
@@ -30,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfiqar313&show_icons=true&locale=en&layout=compact" alt="zulfiqar313" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfiqar313&show_icons=true&locale=en" alt="zulfiqar313" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulfiqar313" alt="zulfiqar313" /></a> </p>
