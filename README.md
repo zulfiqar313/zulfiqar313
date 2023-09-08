@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
-<h3 align="center">A passionate Software Developer 🚀 having experience in building Software Applications with JavaScript, React JS, React Native, Redux, React Query, Next Js, Graph QL, and some other cool libraries and frameworks.</h3>
+<h3 align="center">A passionate Software Developer 🚀 having experience in building products with JavaScript, React JS, React Native, Redux, React Query, Next Js, Graph QL, and some other cool libraries and frameworks.</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulfiqar313&" alt="zulfiqar313" /></p>
 
