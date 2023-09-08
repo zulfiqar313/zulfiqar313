@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently persuing **Masters in Computer Science** and looking for **New challenges**. 
 
-- 💬 Ask me about **JavaScript, React Js, Next Js**
+- 💬 Ask me about **JavaScript, React, Next Js**
 
 - 📫 How to reach me **zulfiqar.cs20@gmail.com**
 
