@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
 <h3 align="center">A passionate Software Developer 🚀 having experience in building Software Applications with JavaScript, React JS, React Native, Redux, React Query, Next Js, Graph QL, and some other cool libraries and frameworks.</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulfiqar313&" alt="zulfiqar313" /></p>
+
+
 - 🌱 I’m currently persuing **Masters in Computer Science** and looking for **New challenges**. 
 
 - 💬 Ask me about **JavaScript, React, Next Js**
@@ -24,7 +27,6 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulfiqar313&" alt="zulfiqar313" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfiqar313&show_icons=true&locale=en&layout=compact" alt="zulfiqar313" /></p>
 
